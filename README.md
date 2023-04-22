@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sahil Jha
 - 👀 I’m a fresher
-- 🌱 I’m currently learning front-end web development
 - 📫 Email ;)
 
 <!---
